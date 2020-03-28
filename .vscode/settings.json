@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/raberin/.local/share/virtualenvs/learning_flask-GMkJ5B37/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ]
+}
