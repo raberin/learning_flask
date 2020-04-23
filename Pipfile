@@ -13,6 +13,8 @@ flask-wtf = "*"
 flask-bcrypt = "*"
 flask-login = "*"
 pylint-flask = "*"
+pillow = "*"
+email-validator = "*"
 
 [requires]
 python_version = "3.8"
